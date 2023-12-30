@@ -8,5 +8,5 @@ download two libraries from here:
 
 include both libraries in arduino.ide 
 
-go to examples get reset code and  run (if any issue try try settime and then reset) 
+go to examples get reset code and  run (if any issue try try settime and then readset) 
 
