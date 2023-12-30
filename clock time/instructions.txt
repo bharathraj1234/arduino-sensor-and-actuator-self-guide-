@@ -1,0 +1,12 @@
+check the  diagram from this link https://dronebotworkshop.com/real-time-clock-arduino/
+
+download two libraries from here:
+
+::::>>>>https://github.com/PaulStoffregen/DS1307RTC
+
+::::>>>>https://github.com/PaulStoffregen/Time
+
+include both libraries in arduino.ide 
+
+go to examples get reset code and  run (if any issue try try settime and then reset) 
+
